@@ -1,0 +1,16 @@
+
+body{
+background-color: skyblue;
+
+}
+h1{
+  background-color:  #E4F9F5;
+
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 5%;
+}
